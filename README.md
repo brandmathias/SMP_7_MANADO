@@ -86,8 +86,8 @@ Proyek ini dikerjakan secara kolaboratif oleh:
 
 ## 📌 Status Proyek
 
-🟢 Tahap: Pengembangan akademik (Project Assignment)/
-🧩 Fokus utama: Penyusunan konten & tampilan informasi sekolah/
+🟢 Tahap: Pengembangan akademik (Project Assignment)
+🧩 Fokus utama: Penyusunan konten & tampilan informasi sekolah
 
 ------------------------------------------------------------------------
 
