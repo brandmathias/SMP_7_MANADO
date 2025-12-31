@@ -64,14 +64,9 @@ Proyek ini dikerjakan secara kolaboratif oleh:
 
 ------------------------------------------------------------------------
 
-## 🖼️ Cuplikan Tampilan (Screenshot)
+### 🖼️ Tampilan Utama
 
-Tambahkan screenshot proyek pada bagian ini setelah upload ke
-repository:
-
-``` md
-![Tampilan Utama](TampilanUtama.png)
-```
+![Tampilan Utama](asset/TampilanUtama.png)
 
 ------------------------------------------------------------------------
 
