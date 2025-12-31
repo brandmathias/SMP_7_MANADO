@@ -70,7 +70,7 @@ Tambahkan screenshot proyek pada bagian ini setelah upload ke
 repository:
 
 ``` md
-![SMP Negeri 7 Manado](assets/screenshot-homepage.png)
+![ss](asset/TampilanUtama.png)
 ```
 
 ------------------------------------------------------------------------
