@@ -38,8 +38,8 @@ Website ini dirancang untuk:
 
 ## 🛠️ Teknologi yang Digunakan
 
--   🌐 HTML, CSS, JavaScript\
--   🧩 Bootstrap / Template UI\
+-   🌐 HTML, CSS, JavaScript
+-   🧩 Bootstrap / Template UI
 -   🗄️ PHP & Localhost (Development Environment)
 
 ------------------------------------------------------------------------
@@ -86,8 +86,8 @@ Proyek ini dikerjakan secara kolaboratif oleh:
 
 ## 📌 Status Proyek
 
-🟢 Tahap: Pengembangan akademik (Project Assignment)
-🧩 Fokus utama: Penyusunan konten & tampilan informasi sekolah
+🟢 Tahap: Pengembangan akademik (Project Assignment)/
+🧩 Fokus utama: Penyusunan konten & tampilan informasi sekolah/
 
 ------------------------------------------------------------------------
 
