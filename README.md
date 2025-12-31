@@ -70,7 +70,7 @@ Tambahkan screenshot proyek pada bagian ini setelah upload ke
 repository:
 
 ``` md
-![ss](asset/TampilanUtama.png)
+![Tampilan Utama](TampilanUtama.png)
 ```
 
 ------------------------------------------------------------------------
