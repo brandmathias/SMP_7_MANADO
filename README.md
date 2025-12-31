@@ -13,10 +13,10 @@ Program Studi **Teknik Informatika -- Universitas Sam Ratulangi**.
 
 Website ini dirancang untuk:
 
--   📄 Menyajikan profil dan identitas sekolah secara digital\
--   📰 Menyediakan halaman berita & informasi sekolah\
+-   📄 Menyajikan profil dan identitas sekolah secara digital
+-   📰 Menyediakan halaman berita & informasi sekolah
 -   🧭 Memberikan navigasi informasi yang jelas bagi siswa, guru, dan
-    masyarakat\
+    masyarakat
 -   💻 Menjadi sarana pembelajaran kerja tim dalam pengembangan sistem
     berbasis web
 
@@ -24,14 +24,14 @@ Website ini dirancang untuk:
 
 ## 🚀 Fitur Utama
 
-✔️ Halaman Beranda\
-✔️ Profil Sekolah\
-✔️ Tata Tertib\
-✔️ Halaman Berita\
-✔️ Navigasi Menu Responsif\
+✔️ Halaman Beranda
+✔️ Profil Sekolah
+✔️ Tata Tertib
+✔️ Halaman Berita
+✔️ Navigasi Menu Responsif
 ✔️ Tampilan Web Ramah Pengguna (User Friendly)
 
-> (\*) Fitur dikembangkan sesuai kebutuhan informasi sekolah dan ruang
+> Fitur dikembangkan sesuai kebutuhan informasi sekolah dan ruang
 > lingkup tugas perkuliahan.
 
 ------------------------------------------------------------------------
@@ -48,18 +48,18 @@ Website ini dirancang untuk:
 
 Proyek ini dikerjakan secara kolaboratif oleh:
 
--   SARMILA ADABAYE\
--   NATHANAEL M. TUWAIDAN\
--   MISELLA MAMBU\
--   CATHERINE M. ASSA\
--   NAFTALI F. SUMENDAP\
--   ANDRO LAY\
--   ANGELICA ROMPAS\
--   GHINA D. NASYWA\
--   SISILIA S. SALILO\
--   BRANDO M. ZUSRIADI\
--   SAVIO H. PALENDENG\
--   VINCENT J. DAREDA\
+-   SARMILA ADABAYE
+-   NATHANAEL M. TUWAIDAN
+-   MISELLA MAMBU
+-   CATHERINE M. ASSA
+-   NAFTALI F. SUMENDAP
+-   ANDRO LAY
+-   ANGELICA ROMPAS
+-   GHINA D. NASYWA
+-   SISILIA S. SALILO
+-   BRANDO M. ZUSRIADI
+-   SAVIO H. PALENDENG
+-   VINCENT J. DAREDA
 -   CHARMENITA GIROTH
 
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ Proyek ini dikerjakan secara kolaboratif oleh:
 
 ## 📌 Status Proyek
 
-🟢 Tahap: Pengembangan akademik (Project Assignment)\
+🟢 Tahap: Pengembangan akademik (Project Assignment)
 🧩 Fokus utama: Penyusunan konten & tampilan informasi sekolah
 
 ------------------------------------------------------------------------
@@ -95,8 +95,8 @@ Proyek ini dikerjakan secara kolaboratif oleh:
 
 Proyek ini dikerjakan sebagai bentuk:
 
--   🎓 Implementasi pembelajaran teamwork & komunikasi\
--   🧠 Penguatan soft-skill Kecakapan Antar Personal\
+-   🎓 Implementasi pembelajaran teamwork & komunikasi
+-   🧠 Penguatan soft-skill Kecakapan Antar Personal
 -   💡 Praktik pengembangan sistem informasi berbasis web
 
 Program Studi **Teknik Informatika -- Universitas Sam Ratulangi**
