@@ -4,7 +4,7 @@ Sistem Informasi **SMP Negeri 7 Manado** adalah proyek pengembangan
 website profil sekolah yang bertujuan menyediakan informasi sekolah
 secara terstruktur, informatif, dan mudah diakses. Proyek ini
 dikembangkan sebagai tugas mata kuliah **Kecakapan Antar Personal --
-Semester 7**\
+Semester 4**\
 Program Studi **Teknik Informatika -- Universitas Sam Ratulangi**.
 
 ------------------------------------------------------------------------
